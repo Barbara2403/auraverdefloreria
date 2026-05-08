@@ -6,14 +6,14 @@
         ],
         medianos: [
             { n: "Ramo Mediano Girasoles", d: "4 Girasoles + 6 Rosas", p: 400 },
-            { n: "Ramo Mediano Gerberas", d: "10 Gerberas", p: 400 },
+            { n: "Ramo Mediano Gerberas", d: "10 Gerberas", p: 450 },
             { n: "Ramo Mediano Lirios", d: "3 Lirios + 4 Gerberas", p: 420 },
             { n: "Ramo Mediano Rosas", d: "18 Rosas", p: 480 },
             { n: "Ramo Mediano Rosas y Gerberas", d: "12 Rosas + 6 Gerberas", p: 470 },
             { n: "Ramo Mediano Lirios y Rosas", d: "12 Rosas + 3 Lirios", p: 470 }
         ],
         grandes: [
-            { n: "Ramo Grande Gerberas", d: "16 Gerberas", p: 720 },
+            { n: "Ramo Grande Gerberas", d: "16 Gerberas", p: 800 },
             { n: "Ramo Grande Rosas", d: "24 Rosas", p: 720  },
             { n: "Ramo Grande Girasoles", d: "8 Girasoles + 12 Rosas", p: 770 },
             { n: "Ramo Grande Lirios y Gerberas", d: "5 Lirios + 10 Gerberas", p: 900 },
